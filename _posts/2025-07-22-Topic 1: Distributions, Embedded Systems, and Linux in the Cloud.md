@@ -1,7 +1,3 @@
----
-layout: Post
-title: "Topic 1: Distributions, Embedded Systems, and Linux in the Cloud"
----
 Today, I am going over the following areas.
   - Major Linux distributions
     - CentOS 
