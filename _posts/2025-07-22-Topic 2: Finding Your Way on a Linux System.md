@@ -7,8 +7,8 @@ Description
 
 Basics of using the Linux command line.
 
-Key Knowledge Areas:
-
+**Key Knowledge Areas:
+**
 Basic shell
 Command line syntax
 Variables
