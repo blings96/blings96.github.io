@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Understanding File Permissions"
+categories: [Linux Community and a Career, test]
+---
+
+
 Today, I am going over the following areas.
   - Major Linux distributions
     - CentOS 
